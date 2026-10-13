@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <rect width="900" height="320" rx="24" fill="#FFFFFF"/>
+  <g transform="translate(65 35)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 100 C16 82 24 62 42 57 C53 54 62 62 68 73 L87 106" fill="none" stroke="#202832" stroke-width="13"/>
+    <path d="M192 100 C202 82 194 62 176 57 C165 54 156 62 150 73 L131 106" fill="none" stroke="#202832" stroke-width="13"/>
+    <path d="M48 142 C68 170 91 184 109 188 C127 184 150 170 170 142" fill="none" stroke="#202832" stroke-width="13"/>
+    <path d="M109 172 C105 145 99 122 88 104 C79 90 80 76 91 69 C103 62 114 73 121 88 C132 111 140 131 143 153" fill="none" stroke="#F5A623" stroke-width="17"/>
+    <path d="M109 172 C105 145 99 122 88 104 C79 90 80 76 91 69 C103 62 114 73 121 88 C132 111 140 131 143 153" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="7 10"/>
+    <path d="M109 26 A34 34 0 0 1 143 60 H75 A34 34 0 0 1 109 26 Z" fill="#F5A623" stroke="none"/>
+  </g>
+  <text x="310" y="151" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" fill="#202832">Road<tspan fill="#F5A623">Rakshak</tspan></text>
+  <text x="314" y="194" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" fill="#65717C">PROTECTION IN EVERY MILE</text>
+</svg>

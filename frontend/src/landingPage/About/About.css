@@ -1,0 +1,44 @@
+.about_hero{
+    height:500px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    background-color: rgb(243, 240, 233);
+}
+.about_hero h1{
+    font-size: 65px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+.about_hero h2{
+    font-size: 55px;
+    font-weight: 450;
+    color: rgb(57, 119, 96);
+}
+.about_hero p{
+    font-size: 18px;
+    font-weight: 350;
+    margin-top: 20px;
+    color: rgb(136, 132, 132);
+}
+.about_hero_button{
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 119, 96);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.about_hero_button:hover{
+    background-color: rgb(46, 95, 77);
+}
+.about_hero img{
+    width: 200px;
+    height: 80px;
+    border-radius: 130px;
+}
